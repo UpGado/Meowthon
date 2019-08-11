@@ -9,7 +9,7 @@ Meowthon: Way Cooler than Python
 
 ```bash
 $ ./meowthon.exe
-Python 69.420.666swag
+Meowthon 69.420.666swag
 Type "help", "copyright", "credits" or "license" for more information.
 >>> a = list(range(10))
 >>> print(a)
