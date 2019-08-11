@@ -116,3 +116,7 @@ Tools/ssl/win32
 .vscode/
 gmon.out
 .mypy_cache/
+
+# Meowthon
+meowthon.exe
+meowthon.exe-gdb.py
