@@ -458,9 +458,9 @@ static PyObject *
 list_item(PyListObject *a, Py_ssize_t i)
 {
     if (i == 69) {
-        fprintf(stdout, "interpreter: Nice!\n");
+        fprintf(stdout, "Nice! 👌\n");
     } else if (i == 420) {
-        fprintf(stdout, "interpreter: Blaze it, homie\n");
+        fprintf(stdout, "Blaze it, homie\n");
     }
     if (!valid_index(i, Py_SIZE(a))) {
         if (indexerr == NULL) {
