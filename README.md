@@ -1,4 +1,4 @@
-This is Meowthon version 69.420666 swag
+This is Meowthon version 69.420.666 swag
 ====================================
 
 Meowthon: Way Cooler than Python
