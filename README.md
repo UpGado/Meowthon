@@ -21,4 +21,16 @@ Type "help", "copyright", "credits" or "license" for more information.
          ||----w||
          ||     ||
 ```
-yes. that's a beer
+oh yes. the `>>>` prompt is replaced with a beer.
+
+- **Nice Indexing** some numbers are just very nice. Meowthon acknowledges them:
+```bash
+$ ./meowthon.exe
+🍺| a = list(range(100))
+🍺| a[69]
+Interpreter: nice!
+69
+🍺| a[420]
+interpreter: Blaze it, homie
+420
+```
