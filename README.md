@@ -28,9 +28,9 @@ oh yes. the `>>>` prompt is replaced with a beer.
 $ ./meowthon.exe
 🍺| a = list(range(100))
 🍺| a[69]
-Interpreter: nice!
+Nice! 👌
 69
 🍺| a[420]
-interpreter: Blaze it, homie
+Blaze it, homie
 420
 ```
