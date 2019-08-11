@@ -8,7 +8,7 @@ Meowthon: Way Cooler than Python
 - **Cowsay Print:** the original `print` function is boring. Let's fix that:
 
 ```bash
-$ ./meowthon.exe
+$ ./meowthon
 Meowthon 69.420.666swag
 Type "help", "copyright", "credits" or "license" for more information.
 🍺| a = list(range(10))
@@ -25,7 +25,7 @@ oh yes. no more of that boring `>>>` prompt; beers are the way to go.
 
 - **Nice Indexing:** some numbers are just very nice. Meowthon acknowledges them:
 ```bash
-$ ./meowthon.exe
+$ ./meowthon
 🍺| a = list(range(100))
 🍺| a[69]
 Nice! 👌
