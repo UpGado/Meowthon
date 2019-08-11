@@ -8,7 +8,7 @@ Meowthon: Way Cooler than Python
 - **Cowsay Print:** the original `print` function is boring. Let's fix that:
 
 ```bash
-$ python
+$ ./meowthon.exe
 Python 69.420.666swag
 Type "help", "copyright", "credits" or "license" for more information.
 >>> a = list(range(10))
