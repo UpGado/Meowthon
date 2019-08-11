@@ -23,7 +23,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 ```
 oh yes. the `>>>` prompt is replaced with a beer.
 
-- **Nice Indexing** some numbers are just very nice. Meowthon acknowledges them:
+- **Nice Indexing:** some numbers are just very nice. Meowthon acknowledges them:
 ```bash
 $ ./meowthon.exe
 🍺| a = list(range(100))
