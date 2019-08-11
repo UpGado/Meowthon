@@ -21,7 +21,7 @@ Type "help", "copyright", "credits" or "license" for more information.
          ||----w||
          ||     ||
 ```
-oh yes. the `>>>` prompt is replaced with a beer.
+oh yes. no more of the boring `>>>` prompt; beers are the way to go.
 
 - **Nice Indexing:** some numbers are just very nice. Meowthon acknowledges them:
 ```bash
