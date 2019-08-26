@@ -3,6 +3,8 @@ This is Meowthon version 69.420.666 swag
 
 Meowthon: Way Cooler than Python
 
+This project is comprised of some mischiefs with the `cpython` interpreter, for purely educational reasons, and because I think it's cool.
+
 
 ## Features
 - **Cowsay Print:** the original `print` function is boring. Let's fix that:
